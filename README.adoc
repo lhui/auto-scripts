@@ -4,3 +4,11 @@
 == Description
 
 This directory contains scripts that are used to automate various tasks.
+
+
+=== Future Plans
+
+* 整理 gocd 搭建 pipeline 的脚本
+* 整理 Jenkins 部署的脚本
+* 整理 k3s 部署的脚本
+
